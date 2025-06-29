@@ -13,7 +13,7 @@ Supports all unary RPC calls over HTTP 1.
 For auto-generated clients, see https://github.com/timostamm/protoc-h1-plugins
 
 
-Lets say you have this service defined in a proto file:
+Let's say you have this service defined in a proto file:
 
 ```
 option php_generic_services = true;
